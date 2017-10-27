@@ -1,7 +1,7 @@
 # spring-boot-template
 
 ## 快速搭建
-start.spring.io
+[Spring Initializer](http://start.spring.io/)
 
 ## 命令
 `mvn spring-boot:run` 运行项目
